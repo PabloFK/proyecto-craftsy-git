@@ -1,0 +1,162 @@
+
+
+body{
+width: 1140px;
+  background-color:  lightblue;
+font-family: sans-serif;
+
+}
+
+header{
+  background-color: red;
+  width: 1118px;
+  position: relative;
+  padding: 5px;
+}
+
+h2{
+  padding: 10px;
+}
+p{
+  padding: 10px;
+}
+aside{
+  width: 340px;
+  float: right;
+}
+.uno{
+  background-color: white;
+  height: 50px;
+  margin: 10px;
+
+
+}
+.dos{
+    background-color:white;
+    margin: 10px;
+    }
+
+.imagenuno{
+
+
+}
+.tres{
+  background-color:white;
+  margin: 10px;
+}
+.imagendos{
+
+}
+
+.cuatro{
+  background-color:white;
+  margin: 10px;
+}
+
+.cinco{
+  background-color:white;
+  margin: 10px;
+}
+.seis{
+  background-color: white;
+  height: 50px;
+  margin: 10px;
+}
+.siete{
+  background-color:white;
+  margin: 10px;
+}
+.ocho{
+  background-color:white;
+  margin: 10px;
+
+}
+.imagenocho{
+
+}
+main{
+  width: 800px;
+  background-color: white;
+margin top: : 8px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+  position: absolute;
+  top: 81px;
+
+}
+.unomain{
+  width: 380px;
+  background-color: white;
+  margin: 10px;
+  float: left;
+
+}
+.imagenunomain{
+  background-color: black;
+  margin:10px;
+}
+
+.dosmain{
+  width: 380px;
+  background-color: white;
+  margin: 10px;
+  float: right;
+
+}
+.imagendosmain{
+  background-color: black;
+  margin:10px;
+}
+  .tresmain{
+    width: 380px;
+    background-color: white;
+    margin: 10px;
+    float: left;
+
+    }
+    .imagentresmain{
+      background-color: black;
+      margin:10px;
+    }
+
+    .cuatromain{
+      width: 380px;
+      background-color: white;
+      margin: 10px;
+      float: right;
+
+    }
+    .imagencuatromain{
+      background-color: black;
+      margin:10px;
+    }
+    .cincomain{
+      width: 380px;
+      background-color: white;
+      margin: 10px;
+      float: left;
+
+      }
+      .imagencincomain{
+        background-color: black;
+        margin:10px;
+      }
+
+      .seismain{
+        width: 380px;
+        background-color: white;
+        margin: 10px;
+        float: right;
+
+        }
+        .imagenseismain{
+          background-color: black;
+          margin:10px;
+        }
+button{
+  color: white;
+  background-color: red;
+  padding: 12px;
+  margin: 10px;
+}
